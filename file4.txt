@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adding in branch 1
+=======
+Jaste Shana banu nako file 4
+>>>>>>> Branch2

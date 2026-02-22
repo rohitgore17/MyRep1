@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Adding in Branch1
+=======
+created branch1
+>>>>>>> Branch2
